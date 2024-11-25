@@ -1,6 +1,7 @@
 # 🏓 ft_transcendence
 ft_transcendence is an online pong game.  
-It is the capstone project of 42school. We finished it in a team of 5.  
+It is the capstone project of 42school. We completely created a website from scratch.  
+We finished it in a team of 5.  
 The project contains docker containers, devops, backend and frontend.  
 
 ## Content
