@@ -11,6 +11,8 @@ The project contains docker containers, devops, backend and frontend.
 - A profile page written in Javascript and Bootstrap
 - A Django server with postgres SQL database
 - Prometheus/Graphana
+<br>
+For a detailed view look into the pdf file.  
 
 ## Usage
 Execute make. That will take a while, since the docker containers must be created.  
